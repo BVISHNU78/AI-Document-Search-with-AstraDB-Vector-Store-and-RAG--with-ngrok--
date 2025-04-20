@@ -1,4 +1,4 @@
-AI-Document-Search-with-AstraDB-Vector-Store-and-RAG
+![download](https://github.com/user-attachments/assets/2d396860-6e9d-456a-86b2-2afc611c8b81)
 ![images](https://github.com/user-attachments/assets/53eb4059-f148-4be0-8cc0-6f6626c9f0bf)
 ![d0b0bc88-fd53-41b8-a9a6-cff84b24c942](https://github.com/user-attachments/assets/e5f084de-4b76-4197-8cdd-73d528f98f4d)
 📚 About DataStax AstraDB and Apache Cassandra
