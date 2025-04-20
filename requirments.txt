@@ -1,0 +1,8 @@
+cassio
+requests
+OllamaLLM
+OllamaEmbeddings
+Ollama
+PdfReader
+Cassandra
+numpy 
