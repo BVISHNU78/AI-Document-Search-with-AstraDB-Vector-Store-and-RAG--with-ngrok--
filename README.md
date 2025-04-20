@@ -164,3 +164,5 @@ Update these in app.py:
 
 ASTRA_DB_APPLICATION_TOKEN = "your_astra_token"
 ASTRA_DB_ID = "your_astra_db_id"
+OLLAMA_KEY="OLLAMA_API"
+
