@@ -173,4 +173,31 @@ OLLAMA_KEY="OLLAMA_API"
 ![Screenshot 2025-04-20 170752](https://github.com/user-attachments/assets/830b5224-8dfd-4cd0-a839-560be82aefd9)
 
 
+# AI Document Search with AstraDB Vector Store and RAG (with ngrok)
 
+## 🧠 Project Overview
+
+This project builds a **document search system** using **Retrieval-Augmented Generation (RAG)** with **AstraDB** as the vector database. The system embeds documents into vectors, stores them in AstraDB, and retrieves relevant information to answer user queries with the help of a large language model (LLM). Ngrok is used to expose the local app for external access.
+
+## 🚀 Features
+
+- Upload documents (PDFs, text, etc.) to build a vector database  
+- Vector similarity search using AstraDB  
+- Query answering via LLM using retrieved document context  
+- Local deployment with public URL via ngrok
+
+## 🛠️ Tech Stack
+
+- Python 3.11+  
+- AstraDB vector database  
+- LangChain / OpenAI API / or your LLM backend  
+- Ngrok for tunneling  
+- FAISS or similar vector embedding libraries (if used)
+
+## 📦 Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/BVISHNU78/AI-Document-Search-with-AstraDB-Vector-Store-and-RAG--with-ngrok--
+cd AI-Document-Search-with-AstraDB-Vector-Store-and-RAG--with-ngrok--
