@@ -28,6 +28,7 @@ Vector Search	Supports AI/ML use-cases (RAG apps)
 Serverless	No need to manage infrastructure
 Global Distribution	Deploy close to users worldwide
 Easy Integration	API, SDKs, and tools like CassIO available
+
 🎯 Key Benefits
 Free-tier available (great for small projects).
 
