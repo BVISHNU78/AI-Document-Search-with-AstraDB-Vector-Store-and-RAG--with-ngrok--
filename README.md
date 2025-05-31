@@ -201,3 +201,4 @@ This project builds a **document search system** using **Retrieval-Augmented Gen
 ```bash
 git clone https://github.com/BVISHNU78/AI-Document-Search-with-AstraDB-Vector-Store-and-RAG--with-ngrok--
 cd AI-Document-Search-with-AstraDB-Vector-Store-and-RAG--with-ngrok--
+pip install -r requirements.txt
